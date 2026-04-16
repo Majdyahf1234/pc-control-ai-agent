@@ -1,0 +1,7 @@
+APP_TITLE='Workspace Agent (Phase 2)'
+SETTINGS_FILENAME='.workspace_agent_settings.json'
+DEFAULT_OLLAMA_URL='http://localhost:11434'
+DEFAULT_OLLAMA_MODEL='llama3.1:8b'
+EXEC_PLAN_ONLY='plan_only'
+EXEC_STEP='step_by_step'
+EXEC_AUTO='auto_run'
